@@ -1,15 +1,21 @@
 {
   "schema": 1,
   "channel": "staging",
-  "highestPublishedSequence": 40793580075,
+  "highestPublishedSequence": 40829709276,
   "history": [
     {
       "sequence": 40793580075,
       "version": "0.2.1-staging.2",
       "tag": "launcher-staging-v0.2.1-staging.2-s40793580075",
       "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution-staging/releases/download/launcher-staging-v0.2.1-staging.2-s40793580075/launcher-update-manifest.json"
+    },
+    {
+      "sequence": 40829709276,
+      "version": "0.3.1",
+      "tag": "launcher-staging-v0.3.1-s40829709276",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution-staging/releases/download/launcher-staging-v0.3.1-s40829709276/launcher-update-manifest.json"
     }
   ],
-  "latestVersion": "0.2.1-staging.2",
-  "latestTag": "launcher-staging-v0.2.1-staging.2-s40793580075"
+  "latestVersion": "0.3.1",
+  "latestTag": "launcher-staging-v0.3.1-s40829709276"
 }
