@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "staging",
+  "highestPublishedSequence": 40793580075,
+  "history": [
+    {
+      "sequence": 40793580075,
+      "version": "0.2.1-staging.2",
+      "tag": "launcher-staging-v0.2.1-staging.2-s40793580075",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution-staging/releases/download/launcher-staging-v0.2.1-staging.2-s40793580075/launcher-update-manifest.json"
+    }
+  ],
+  "latestVersion": "0.2.1-staging.2",
+  "latestTag": "launcher-staging-v0.2.1-staging.2-s40793580075"
+}
