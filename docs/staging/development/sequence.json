@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "authority": "operator-aid-only",
   "channel": "development",
-  "highestPublishedSequence": 41004923842,
-  "latestVersion": "1.0.5",
-  "latestTag": "staging-gtt-v1.0.5-s41004923842",
+  "highestPublishedSequence": 41018172845,
+  "latestVersion": "1.0.6",
+  "latestTag": "staging-gtt-v1.0.6-s41018172845",
   "history": [
     {
       "sequence": 1,
@@ -50,6 +50,12 @@
       "version": "1.0.5",
       "tag": "staging-gtt-v1.0.5-s41004923842",
       "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution-staging/releases/download/staging-gtt-v1.0.5-s41004923842/update-manifest.json"
+    },
+    {
+      "sequence": 41018172845,
+      "version": "1.0.6",
+      "tag": "staging-gtt-v1.0.6-s41018172845",
+      "manifestUrl": "https://github.com/LotteGiantsYGJ/GTT-distribution-staging/releases/download/staging-gtt-v1.0.6-s41018172845/update-manifest.json"
     }
   ]
 }
